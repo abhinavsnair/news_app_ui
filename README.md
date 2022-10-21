@@ -1,3 +1,5 @@
+![Screenshot from 2022-10-21 19-52-15](https://user-images.githubusercontent.com/108852286/197220653-22985913-5494-49ae-8ee6-32434e4752f4.png)
+![Screenshot from 2022-10-21 19-52-33](https://user-images.githubusercontent.com/108852286/197220829-93bbcbd9-a116-4962-94ac-f99ba13f55dc.png)
 # news_app_ui
 
 A new Flutter project.
